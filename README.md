@@ -1,2 +1,2 @@
 # nullify-archive
-just an archive for nullify
+this is NOT a bookmarklet. you have to paste this into the console for it to work.
